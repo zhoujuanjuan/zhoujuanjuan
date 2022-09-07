@@ -6,7 +6,7 @@
 
 - 👯 Maintainer of [bruno](https://github.com/LianjiaTech/bruno) 
 
-- :envelope: 837472412@qq.com
+- :envelope: 15143015732@163.com
 
 [![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoujuanjuan&hide=prs,)](https://github.com/anuraghazra/github-readme-stats)
 
